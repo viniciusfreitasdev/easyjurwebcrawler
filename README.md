@@ -4,13 +4,13 @@ Um web crawler desenvolvido para extrair informações dos 10 primeiros filmes e
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Este projeto tem como objetivo acessar a página de filmes em cartaz do [Rotten Tomatoes](https://www.rottentomatoes.com/browse/movies_in_theaters/), extrair os 10 primeiros filmes listados e retornar um JSON contendo detalhes como título, sinopse, data de lançamento (em formato ISO 8601), diretor, produtor e outras informações relevantes.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Web Crawling Automatizado:** Acessa a página do Rotten Tomatoes e coleta dados em tempo real.
 - **Extração de Dados Estruturados:** Captura informações como título, data de lançamento, sinopse, diretor, gênero e mais.
@@ -19,7 +19,7 @@ Este projeto tem como objetivo acessar a página de filmes em cartaz do [Rotten 
 
 ---
 
-## 🛠️ Instalação
+## Instalação
 
 1. **Clone o repositório:**
    ```bash
@@ -39,7 +39,7 @@ Este projeto tem como objetivo acessar a página de filmes em cartaz do [Rotten 
 
 ---
 
-## 🚀 Como Usar
+## Como Usar
 
 1. Após iniciar o servidor, acesse o endpoint via:
    ```
@@ -65,7 +65,7 @@ Este projeto tem como objetivo acessar a página de filmes em cartaz do [Rotten 
 
 ---
 
-## 📋 Estrutura do JSON
+## Estrutura do JSON
 
 Cada filme inclui os seguintes campos:
 
@@ -82,7 +82,7 @@ Cada filme inclui os seguintes campos:
 
 ---
 
-## 🖥️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Node.js**: Ambiente de execução JavaScript.
 - **Express**: Framework para criação da API.
@@ -91,6 +91,6 @@ Cada filme inclui os seguintes campos:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 Este projeto é **para fins demonstrativos**. O web scraping pode violar os termos de serviço de alguns sites. Verifique as políticas do Rotten Tomatoes antes de usar este código em produção. O desenvolvedor não se responsabiliza por qualquer uso indevido.
