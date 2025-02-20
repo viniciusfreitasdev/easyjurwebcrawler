@@ -93,4 +93,7 @@ Cada filme inclui os seguintes campos:
 
 ## Disclaimer
 
-Este projeto é **para fins demonstrativos**. O web scraping pode violar os termos de serviço de alguns sites. Verifique as políticas do Rotten Tomatoes antes de usar este código em produção. O desenvolvedor não se responsabiliza por qualquer uso indevido.
+- Este projeto é **para fins demonstrativos**.
+- O web scraping pode violar os termos de serviço de alguns sites.
+- Verifique as políticas do Rotten Tomatoes antes de usar este código em produção.
+- O desenvolvedor não se responsabiliza por qualquer uso indevido.
